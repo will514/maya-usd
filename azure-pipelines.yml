@@ -22,3 +22,5 @@ steps:
   displayName: 'Echo environment'
   env:
     ENV_WORKFLOW_USERNAME: $(WORKFLOW_USERNAME)
+
+
